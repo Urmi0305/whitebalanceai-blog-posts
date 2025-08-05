@@ -1,0 +1,56 @@
+Loan EMI SMS Notification System – WordPress + SMS Gateway Integration
+This project is a fully functional EMI tracking and notification system, built using WordPress and integrated with an SMS gateway to automatically notify clients about upcoming or missed EMI payments.
+
+🔗 Live Demo & Full Breakdown:
+👉 whitebalanceai.com/loan-emi-sms-notification-system
+
+✅ Key Features
+Client Login Panel: Secure browser-based login for clients to submit EMI payment details (no app needed).
+
+Admin Dashboard: View all client submissions, filter by date, name, and payment status.
+
+SMS Notifications: Automatically sends confirmation and reminders via SMS using API.
+
+Form + SMS Workflow: Built using Fluent Forms Pro and WP SMS Plugin.
+
+Mobile-Friendly: Responsive front-end built with Elementor (optional).
+
+🧩 Tech Stack
+Tool	Purpose
+WordPress	CMS
+Fluent Forms Pro	Front-end form
+WP SMS Plugin	SMS integration
+Elementor	UI/UX Design
+SMS Gateway	API-based SMS delivery
+
+🔄 Workflow
+Install & configure Fluent Forms Pro
+
+Create a custom EMI form with required fields
+
+Set up WP SMS Plugin and connect your SMS gateway API
+
+Create client dashboard page using Elementor or shortcode
+
+Use conditional logic and automation to trigger SMS on form submission
+
+💡 Use Cases
+NBFCs and finance consultants
+
+Subscription-based service businesses
+
+Real estate agents managing EMI clients
+
+Micro-loan providers
+
+Any business requiring automated client payment reminders
+
+⚙️ Customization Available
+Need this tailored for your enterprise workflow or brand?
+
+📩 Request a custom build or quote here:
+Contact Now
+
+📌 License
+This is a client-delivered custom build.
+For similar solutions or collaboration, connect with WhiteBalanceAI.
